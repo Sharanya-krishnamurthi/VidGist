@@ -31,8 +31,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vidgist.git
-cd vidgist
+git clone https://github.com/Sharanya-krishnamurthi/VidGist.git
+cd VidGist
 ````
 
 ### 2. Install dependencies
